@@ -1,4 +1,4 @@
-title: Welcome to the rene’s homepage!
+
 
 ## Welcome to GitHub Pages
 
